@@ -1,6 +1,6 @@
 # CLASSIFIER WEB APP
 
-This is a streamlit repository for classifications web apps. We depend on following libraries:
+This is a streamlit repository for classification web apps. We depend on following libraries:
 
 * streamlit
 * numpy
