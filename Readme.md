@@ -1,5 +1,7 @@
 # CLASSIFIER WEB APP
 
+You can view this app on Streamlit at: https://kashifm777-classifier-web-app-app-9fipl3.streamlit.app
+
 This is a streamlit repository for classification web apps. We depend on following libraries:
 
 * streamlit
