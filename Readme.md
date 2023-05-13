@@ -26,4 +26,27 @@ By creating a streamlit app, we can vary different factors in each model and inc
 
 ### KNN  
 
-![KNN Classifier](ScreenCapture/knn1.pPNG)  
+![KNN Classifier](ScreenCapture/knn1.PNG)  
+#### Graph  
+![KNN Graph](ScreenCapture/knn2.PNG)  
+
+## SVM  
+
+![SVM Classifier](ScreenCapture/svm1.PNG)  
+#### Graph  
+![SVM Graph](ScreenCapture/svm2.PNG)  
+
+## Random Forrest  
+
+### IRIS dataset
+
+![Random Forrest on IRIS](ScreenCapture/rf1.PNG)  
+#### Graph  
+![Random Forrest Graph](ScreenCapture/rf2.PNG)  
+
+### Wines dataset  
+
+![Random Forrest on Wines](ScreenCapture/rf_wn1.PNG)  
+#### Graph  
+![Random Forrest graph](ScreenCapture/rf_wn2.PNG)  
+
