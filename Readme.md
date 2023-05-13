@@ -20,5 +20,10 @@ We are using following three classification models:
 2. SVM
 3. Random Forest
 
-By creating a streamlit app, we can vary different factors in each model and incerase the accuracy of input dataset.
+By creating a streamlit app, we can vary different factors in each model and incerase the accuracy of input dataset.  
 
+## Screen Capture  
+
+### KNN  
+
+![KNN Classifier](ScreenCapture/knn1.pPNG)  
